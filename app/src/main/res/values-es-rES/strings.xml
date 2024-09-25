@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FactorialApp</string>
+    <string name="factorial">Factorial</string>
+    <string name="infoText">Introduce un número entero</string>
+    <string name="calculate">Calcular</string>
+</resources>
